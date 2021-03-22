@@ -1,0 +1,6 @@
+framework module Pods_Lucror {
+  umbrella header "Pods-Lucror-umbrella.h"
+
+  export *
+  module * { export * }
+}
